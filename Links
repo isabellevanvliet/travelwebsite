@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--bootstrap CSS-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <!--my CSS-->
+    <link rel="stylesheet" href="mystyle.css">
+
+    <!--bootstrap JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    
+    <title>Links to Traveling Websites</title>
+
+    <style>
+        p {
+            background-color:antiquewhite;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>SkyScanner</h3>
+    <p>Skyscanner is a website to book flights easily for cheap prices</p>
+    <img src="https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80">
+
+    <a href="https://unsplash.com/photos/BwYcH78rcpI" alt="website link"> Gray and Blue Airplane image by Nick Morales licened under Unsplash License</a>
+
+
+    <h3>Booking.com</h3>
+    <p>This website allows you to book hotels, houses, or B&B for cheap prices.</p>
+    <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
+
+    <a href="https://unsplash.com/photos/2FPjlAyMQTA" alt="website link"> Pointing at Computer image by John Schnobrich licened under Unsplash License</a>
+
+    <h3>Kayak</h3>
+    <p> Kayak is a broad source which allows you to rent hotels, cars, buy airplane tickets with a wide range of prices.</p>
+    <img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80">
+
+    <a href="https://unsplash.com/photos/RLw-UC03Gwc" alt="website link"> Person Writing image by Glenn Carstens-Peters licened under Unsplash License</a>
